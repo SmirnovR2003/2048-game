@@ -10,7 +10,7 @@ To play 2048 on your machine with highscores, you must have Node.js installed. I
 
 Then clone the repo to your computer:
 ```
-git clone https://github.com/bradymadden97/2048-game
+git clone https://github.com/SmirnovR2003/2048-game
 ```
 Now open a local Node server on your machine with the command:
 ```
@@ -24,7 +24,7 @@ localhost:8080
 
 To play locally without highscore tracking, first clone the repo to your computer:
 ```
-git clone https://github.com/bradymadden97/2048-game
+git clone https://github.com/SmirnovR2003/2048-game
 ```
 Open a web browser and navigate to the <b>index.html</b> page in your filesystem
 
